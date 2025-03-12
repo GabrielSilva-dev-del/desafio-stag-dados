@@ -72,7 +72,7 @@ Este projeto foi desenvolvido para simular um desafio real de processamento de l
 
 ### Qual linguagem?
 
-Não temos preferência por linguagem. Porém, aqui utilizamos: Python
+Não temos preferência por linguagem. Porém, aqui utilizamos: Python, Typescript
 
 ### Devo construir uma interface?
 
