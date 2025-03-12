@@ -94,9 +94,4 @@ Sim, você pode utilizar frameworks como LangChain que facilitam a implementaç�
 
 Recomendamos fortemente o uso de variáveis de ambiente para armazenar sua API key. Nunca inclua sua API key diretamente no código ou em arquivos que serão enviados ao repositório. No README do seu projeto, inclua instruções claras sobre como configurar a variável de ambiente necessária para executar o projeto.
 
-## Dúvidas
-
-Em caso de dúvidas sobre o desafio, entre em contato com nossa equipe de recrutamento pelo email [recrutamento@morada.ai](mailto:recrutamento@morada.ai).
-
 Boa sorte!
-
