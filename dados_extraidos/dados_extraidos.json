@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Carlos Eduardo Silva",
+        "email": "carlos.silva@email.com",
+        "telefone": "(11) 98765-4321",
+        "interesses": "Apartamento em Pinheiros ou Vila Madalena, São Paulo, 2 quartos, 1 vaga de garagem, próximo ao metrô",
+        "orcamento": "R$ 800.000"
+    },
+    {
+        "nome": "Roberto Almeida",
+        "email": "roberto.almeida@email.com",
+        "telefone": "(48) 98877-6655",
+        "interesses": "Apartamento de 1 quarto ou studio em Florianópolis (região central ou próximo às praias) para investimento e aluguel por temporada.",
+        "orcamento": "R$ 500.000"
+    }
+]
